@@ -7,7 +7,7 @@ Web developer
 I'm a student learning full stack web development :) . I enjoy making and designing web sites
 
 * 🌍  I'm from India
-* 🧠  I'm learning frontend
+* 🧠  I'm learning Front-End development currently
 * 🤝  I'm open to collaborating on interesting projects
 * 🎀  I love cats and aliens >:3
 
